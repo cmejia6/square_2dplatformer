@@ -1,0 +1,29 @@
+Initialize engine version: 2017.1.0p4 (892c0f8d8f8a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Alex\Desktop\unity projects\co-op networkin platformer v0\netw_tst_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Alex\Desktop\unity projects\co-op networkin platformer v0\netw_tst_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Alex\Desktop\unity projects\co-op networkin platformer v0\netw_tst_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Alex\Desktop\unity projects\co-op networkin platformer v0\netw_tst_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Alex\Desktop\unity projects\co-op networkin platformer v0\netw_tst_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Alex\Desktop\unity projects\co-op networkin platformer v0\netw_tst_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Alex\Desktop\unity projects\co-op networkin platformer v0\netw_tst_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Alex\Desktop\unity projects\co-op networkin platformer v0\netw_tst_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Alex\Desktop\unity projects\co-op networkin platformer v0\netw_tst_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Alex\Desktop\unity projects\co-op networkin platformer v0\netw_tst_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Alex\Desktop\unity projects\co-op networkin platformer v0\netw_tst_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Alex\Desktop\unity projects\co-op networkin platformer v0\netw_tst_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.908 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.228418 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4078 -> priority: 1 
+  Thread -> id: 27cc -> priority: 1 

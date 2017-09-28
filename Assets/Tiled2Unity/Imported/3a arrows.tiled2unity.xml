@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Tiled2Unity generated xml data-->
+<!--Do not modify by hand-->
+<!--Last exported: 7/6/2017 12:28:32 PM-->
+<Tiled2Unity version="1.0.9.7">
+  <AssignMaterial mesh="mesh_0001" material="net_plat_tled_sheetv0" />
+  <Prefab name="3a arrows" orientation="Orthogonal" staggerAxis="Y" staggerIndex="Odd" hexSideLength="0" numLayers="1" numTilesWide="64" numTilesHigh="32" tileWidth="16" tileHeight="16" exportScale="1" mapWidthInPixels="1024" mapHeightInPixels="512" backgroundColor="#808080">
+    <GameObject name="Tile Layer 1" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="net_plat_tled_sheetv0" copy="mesh_0001" sortingLayerName="" sortingOrder="0" opacity="1" />
+      <GameObject name="Collision_collision" layer="collision">
+        <PolygonCollider2D>
+          <Path>144,-448 0,-448 0,-464 144,-464</Path>
+        </PolygonCollider2D>
+      </GameObject>
+    </GameObject>
+  </Prefab>
+  <ImportMesh filename="3a arrows.obj">IyBXYXZlZnJvbnQgT0JKIGZpbGUgYXV0b21hdGljYWxseSBnZW5lcmF0ZWQgYnkgVGlsZWQyVW5pdHkNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSAyMCkNCnYgMCAtNDY0IC0wLjg3NQ0KdiAtMTYgLTQ2NCAtMC44NzUNCnYgLTE2IC00NDggLTAuODc1DQp2IDAgLTQ0OCAtMC44NzUNCnYgLTMyIC00NjQgLTAuODc1DQp2IC0zMiAtNDQ4IC0wLjg3NQ0KdiAtNDggLTQ2NCAtMC44NzUNCnYgLTQ4IC00NDggLTAuODc1DQp2IC02NCAtNDY0IC0wLjg3NQ0KdiAtNjQgLTQ0OCAtMC44NzUNCnYgLTgwIC00NjQgLTAuODc1DQp2IC04MCAtNDQ4IC0wLjg3NQ0KdiAtOTYgLTQ2NCAtMC44NzUNCnYgLTk2IC00NDggLTAuODc1DQp2IC0xMTIgLTQ2NCAtMC44NzUNCnYgLTExMiAtNDQ4IC0wLjg3NQ0KdiAtMTI4IC00NjQgLTAuODc1DQp2IC0xMjggLTQ0OCAtMC44NzUNCnYgLTE0NCAtNDY0IC0wLjg3NQ0KdiAtMTQ0IC00NDggLTAuODc1DQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDEuMjIwNzAzRS0wNSAwLjQwMDAxMjINCnZ0IDAuMDk5OTg3NzkgMC40MDAwMTIyDQp2dCAwLjA5OTk4Nzc5IDAuNDk5OTg3OA0KdnQgMS4yMjA3MDNFLTA1IDAuNDk5OTg3OA0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgR3JvdXBzIChDb3VudCA9IDEpDQoKZyBtZXNoXzAwMDEKZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQpmIDIvMS8xIDUvMi8xIDYvMy8xIDMvNC8xCmYgNS8xLzEgNy8yLzEgOC8zLzEgNi80LzEKZiA3LzEvMSA5LzIvMSAxMC8zLzEgOC80LzEKZiA5LzEvMSAxMS8yLzEgMTIvMy8xIDEwLzQvMQpmIDExLzEvMSAxMy8yLzEgMTQvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNS8yLzEgMTYvMy8xIDE0LzQvMQpmIDE1LzEvMSAxNy8yLzEgMTgvMy8xIDE2LzQvMQpmIDE3LzEvMSAxOS8yLzEgMjAvMy8xIDE4LzQvMQoNCg==</ImportMesh>
+  <ImportTexture usesDepthShaders="true" filename="net_plat_tled_sheetv0.png">iVBORw0KGgoAAAANSUhEUgAAAKAAAACgCAYAAACLz2ctAAACD0lEQVR4nO3dIW4VYRSA0XlkBASHQzVoBCgcCQqNQCG6iW6mAkNThUUiXhcAbw+gCAmuoql5LOI2+fIy5/h784svV00yu/1+f1wG/l1cTMaXj4fDaH5Zlt10AZ1H9QPYNgGSEiApAZISICkBkhIgKQGSEiApAZISICkBkhIgKQGSEiCp9c/vd6MFl3efhk84+J5vw1xAUgIkJUBSAiQlQFICJCVAUgIkJUBSAiQlQFICJCVAUgIkJUBS6/35j9GCs9e/Zi94NRvntLmApARISoCkBEhKgKQESEqApARISoCkBEhKgKQESEqApARISoCk1vOrF6MFL7+/Gc1fjaY5dS4gKQGSEiApAZISICkBkhIgKQGSEiApAZISICkBkhIgKQGSEiCp3e3xy3Gy4P7u+egBz56897/gDXMBSQmQlABJCZCUAEkJkJQASQmQlABJCZCUAEkJkJQASQmQlABJrU+vZw3efvv8QE9hi1xAUgIkJUBSAiQlQFICJCVAUgIkJUBSAiQlQFICJCVAUgIkJUBS67KcjRZc/n2gl7BJLiApAZISICkBkhIgKQGSEiApAZISICkBkhIgKQGSEiApAZISIKn1+vHb0YKfH4YN33ydzXPSXEBSAiQlQFICJCVAUgIkJUBSAiQlQFICJCVAUgIkJUBSAiQlQAAAAAAAAAAAAAAAAAAAAAAAAACAjfsPyCAhN2OfpLYAAAAASUVORK5CYII=</ImportTexture>
+</Tiled2Unity>

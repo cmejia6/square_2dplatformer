@@ -10,7 +10,7 @@ public class FallingBlock : MonoBehaviour {
         countText = transform.GetChild(0).GetChild(0);
         rigid = GetComponent<Rigidbody2D>();
 
-        countText.GetComponent<Text>().text = countStart.ToString();
+        countText.GetComponent<Text>().text = countStart.ToString("0");
     }
 
     void Update() {

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GoalMagV0 : MonoBehaviour {
     [SerializeField]
@@ -34,5 +35,6 @@ public class GoalMagV0 : MonoBehaviour {
 
     void LevelCompleted() {
         //
+        SceneManager.LoadScene(0);
     }
 }

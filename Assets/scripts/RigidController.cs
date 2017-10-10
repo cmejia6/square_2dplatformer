@@ -47,7 +47,7 @@ public class RigidController : GeneralMovementv0 {
         }
 
         //jumping
-        if (canJump == true && KeyboardAxis.y == 1
+        if (canJump == true && Input.GetAxisRaw("jump") == 1  //KeyboardAxis.y == 1
             && inAir == false && CheckCollision(Collision.Bottom)
             && (CheckCollision(Collision.Top) ? CollidingWith.transform.tag != "Player" : true)) {
 
@@ -72,9 +72,11 @@ public class RigidController : GeneralMovementv0 {
         }
 
         //if jump is finished and player had landed
-        if (KeyboardAxis.y == 0 && inAir == true && CheckCollision(Collision.Bottom) == true) {
+        if (/*KeyboardAxis.y == 0 &&*/ inAir == true && CheckCollision(Collision.Bottom) == true) {
             inAir = false;
         }
+
+        Debug.Log("inaire " + inAir);
     }
 
     [SerializeField]

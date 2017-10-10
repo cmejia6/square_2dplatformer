@@ -6,5 +6,26 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/scenes/level set 1 single/_4.unity
+    path: Assets/scenes/starting_menu 0.unity
+    guid: 51c85a1e3ec13c143bba9bd009db24dd
+  - enabled: 1
+    path: Assets/scenes/level set 1 single/_0 intro.unity
+    guid: c345c509f5f49fa4fab45f01ddaaa9f5
+  - enabled: 1
+    path: Assets/scenes/level set 1 single/_1 enemy - falling.unity
+    guid: e1a046738838ccf428d3b61595e5886e
+  - enabled: 1
+    path: Assets/scenes/level set 1 single/_2 cloud level - falling bridges.unity
+    guid: a2b588f69647dea45b4b0969cefbf0b0
+  - enabled: 1
+    path: Assets/scenes/level set 1 single/_3 blocks and platforms.unity
+    guid: 36f0c68783a0b914fbc1e064c5b1eeff
+  - enabled: 1
+    path: Assets/scenes/level set 1 single/_4 platforms only.unity
     guid: b38514490b547b44786b271a428662f5
+  - enabled: 1
+    path: Assets/scenes/level set 1 single/_5 bouncing.unity
+    guid: 9d2f99c877b8c2043a0f902752b2308d
+  - enabled: 1
+    path: Assets/scenes/level set 1 single/_6.unity
+    guid: aac507642753a2a4e87c49af3ac9dc9d
